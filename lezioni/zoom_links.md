@@ -1,4 +1,4 @@
-##Lezione 1
+## Lezione 1
 
 Andrea Piccinno ti sta invitando a una riunione pianificata in Zoom.
 
