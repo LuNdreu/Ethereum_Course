@@ -1,4 +1,4 @@
-## Lezione 1
+## Lezione 1 (1h)
 
 Andrea Piccinno ti sta invitando a una riunione pianificata in Zoom.
 
@@ -12,7 +12,7 @@ ID riunione: 750 3014 7317
 Passcode: 73kSZC
 
 
-## Lezione 2
+## Lezione 2 (2h)
 
 Andrea Piccinno ti sta invitando a una riunione pianificata in Zoom.
 
@@ -26,7 +26,7 @@ ID riunione: 750 3014 7317
 Passcode: 73kSZC
 
 
-## Lezione 3
+## Lezione 3 (1h)
 
 Andrea Piccinno ti sta invitando a una riunione pianificata in Zoom.
 
