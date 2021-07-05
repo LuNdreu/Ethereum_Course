@@ -39,3 +39,18 @@ https://us04web.zoom.us/j/72924649184?pwd=NDlsYS9CeVZXVThvZUVFOUVRWmVvQT09
 ID riunione: 729 2464 9184
 Passcode: Wms6iH
 
+
+## Lezione 4 (1h)
+
+Andrea Piccinno ti sta invitando a una riunione pianificata in Zoom.
+
+Argomento: Corso Solidity - ERC20 Standard
+Ora: 5 lug 2021 06:45 PM Roma
+
+Entra nella riunione in Zoom
+https://us04web.zoom.us/j/78447753176?pwd=RUtub2oydGYyWlhFNWdZWmFRcXowZz09
+
+ID riunione: 784 4775 3176
+Passcode: tf9qHd
+
+
