@@ -855,6 +855,13 @@ contract MYERC20Uni is Context, IERC20, Ownable {
                 block.timestamp
             );
     }
+    
+    // Come richiamare una funzione di un contratto esterno definito in un'interfaccia
+    // INDIRIZZO = Deve essere una variabile che contiene l'indirizzo del contratto 0x... 
+    // può essere statica nel contratto o popolata dinamicamente tramite una funzione dell'utente
+    // Sintassi da utilizzare
+    // NomeInterfaccia(INDIRIZZO).FunzioneInterfaccia(InputFunzione)
+    
     // Returns lockagle supply stored on contract address (in ERC20 Tokens)
     function lockableSupply() external view returns (uint256) {
         return balanceOf(address(this));
